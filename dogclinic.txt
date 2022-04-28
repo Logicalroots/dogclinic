@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dog Clinic</title>
+</head>
+<body>
+<h1>Anuj Dog Clinic</h1>
+<h4>Here are some list of breeds</h4>
+<ul>
+    <li><a href="https://en.wikipedia.org/wiki/Golden_Retriever"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/BassetHound_profil.jpg"></a>
+    </li>
+    <li><a href="https://en.wikipedia.org/wiki/Poodle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Full_attention_%288067543690%29.jpg/1280px-Full_attention_%288067543690%29.jpg"></a></li>
+</ul>
+
+</body>
+</html>
